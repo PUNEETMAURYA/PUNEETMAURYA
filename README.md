@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="puneetmaurya" /> </p>
 
-- 🔭 I’m currently working on **Web Scraper Project**
+- 🔭 I’m currently working on **Blog Project**
 
 - 🌱 I’m currently learning **ReactJS**
 
